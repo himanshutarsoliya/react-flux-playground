@@ -8,7 +8,7 @@ function CourseList(props) {
       <thead>
         <tr>
           <th>Title</th>
-          <th>Authod ID</th>
+          <th>Author ID</th>
           <th>Category</th>
         </tr>
       </thead>
